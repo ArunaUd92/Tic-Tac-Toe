@@ -3,6 +3,8 @@
 
 This is a simple Tic-Tac-Toe game for iOS built using SwiftUI. The game supports local multiplayer functionality using Multipeer Connectivity, allowing two nearby iPhones to play without an internet connection. The app features a modern, gradient-based UI design.
 
+![](https://github.com/ArunaUd92/Tic-Tac-Toe/blob/main/ScreenRecording2024-07-15at12.42.29am-ezgif.com-video-to-gif-converter.gif)
+
 ## Features
 - Two-player Tic-Tac-Toe game.
 -  Local multiplayer using Multipeer Connectivity (Bluetooth/Wi-Fi)
